@@ -1,4 +1,4 @@
 slow:
   time:
     minimum: 2
-    maximum: 60
+    maximum: 8
