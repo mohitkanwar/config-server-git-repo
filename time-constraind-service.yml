@@ -1,0 +1,4 @@
+slow:
+  time:
+    minimum: 0
+    maximum: 8
