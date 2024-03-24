@@ -1,0 +1,10 @@
+{
+    "accounts": {
+        "enabled" : true,
+        "showBalanceByDefault" : false
+    },
+    "transactions" : {
+        "count" : 5,
+        "pagination" : true
+    }
+}

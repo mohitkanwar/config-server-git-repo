@@ -1,0 +1,10 @@
+{
+    "password": {
+        "minlength" : 5,
+        "maxlength" : 32
+    },
+    "captcha" : {
+        "enabled" : true,
+        "retries" : 3
+    }
+}
