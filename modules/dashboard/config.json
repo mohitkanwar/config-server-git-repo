@@ -6,5 +6,8 @@
     "transactions" : {
         "count" : 5,
         "pagination" : true
+    }, 
+    "env" : {
+        "name" : "prod"
     }
 }
